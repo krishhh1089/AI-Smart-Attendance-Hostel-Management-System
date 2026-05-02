@@ -1,4 +1,4 @@
-# 🎓 Smart Attendance & Hostel Management System
+# 🎓 AI-Smart Attendance & Hostel Management System
 
 An advanced full-stack web application that automates student attendance tracking and hostel management using face recognition technology powered by AI/ML.
 
